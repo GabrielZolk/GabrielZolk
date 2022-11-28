@@ -1,8 +1,9 @@
 <h1 align="center">Hi 🤟, I'm Gabriel Zolk</h1>
  <img align="right" alt="GIF" src="https://preview.redd.it/y9ih2d9mmuuz.jpg?auto=webp&s=0793a70e29494c6fa930202386bcfb7e90041876"  />
- 
-<p align="left" width="200px"> <a href="https://twitter.com/Gabriel_Zolk" target="blank"><img src="https://img.shields.io/twitter/url?label=Follow%20%7C%20Gabriel%20Zolk&style=social&url=https%3A%2F%2Ftwitter.com%2FGabriel_Zolk" alt="Gabriel Zolk Twitter" /></a> </p>
 
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopredes&theme=synthwave&hide_border=false&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 - 📫 How to reach me **dialixkat@gmail.com**
 
@@ -24,17 +25,11 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div
 # 📊GitHub Stats :
+ 
 <div align="center">
-
-
-
 
 ![](https://github-readme-stats.vercel.app/api?username=fernandopredes&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernandopredes&theme=synthwave&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopredes&theme=synthwave&hide_border=false&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align="center">
-  
----
-[![](https://visitcount.itsvg.in/api?id=fernandopredes&icon=9&color=11)](https://visitcount.itsvg.in)
-</div>
+ 
