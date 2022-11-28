@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🤟, I'm Gabriel Zolk</h1>
- <img align="right" alt="GIF" src="https://preview.redd.it/y9ih2d9mmuuz.jpg?auto=webp&s=0793a70e29494c6fa930202386bcfb7e90041876"  />
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopredes&theme=synthwave&hide_border=false&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
