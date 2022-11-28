@@ -1,9 +1,5 @@
 <h1 align="center">Hi 🤟, I'm Gabriel Zolk</h1>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandopredes&theme=synthwave&hide_border=false&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 - 📫 How to reach me **dialixkat@gmail.com**
 
 <div align="left">
@@ -22,13 +18,21 @@
 
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div
 # 📊GitHub Stats :
  
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=fernandopredes&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fernandopredes&theme=synthwave&hide_border=false)<br/>
-(https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=gabrielzolk&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielzolk&theme=synthwave&hide_border=false)<br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzolk&theme=synthwave&hide_border=false&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
