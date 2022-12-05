@@ -40,7 +40,7 @@
 )
  ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 )
- <img height="30em" src="https://user-images.githubusercontent.com/109248116/205525889-b8e221a0-7919-46ff-a1be-cc8dcb45f5a6.png">
+ <img height="28em" src="https://static.wixstatic.com/media/df373f_f4003abaf1ff4822bcbccea2da7fc9a4~mv2.png/v1/fill/w_640,h_202,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/df373f_f4003abaf1ff4822bcbccea2da7fc9a4~mv2.png">
 
 
 
