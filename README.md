@@ -58,6 +58,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=gabrielzolk&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielzolk&theme=synthwave&hide_border=false)<br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzolk&theme=synthwave&hide_border=false&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
- [![](https://github-readme-stats.vercel.app/api/pin/?username=gabrielzolk&repo=github-readme-stats)](https://github.com/gabrielzolk/readme)
 </div>
  
