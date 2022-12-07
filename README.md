@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤟, I'm Gabriel Zolk</h1>
+<h1 align="center">Hi 🤟, I'm Gabriel Queiroz</h1>
 <br/>
 <br/>
 
