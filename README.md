@@ -4,8 +4,6 @@
 
 <h4 align="center">Portfolio</h4>
 
-<br>
-
 <div align="center">
  
  [Click Here](https://gabrielzolk.github.io/new-portfolio/)
