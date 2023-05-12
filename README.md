@@ -6,7 +6,11 @@
 
 <br>
 
-<div align="center">[Click Here](https://gabrielzolk.github.io/new-portfolio/)</div>
+<div align="center">
+ 
+ [Click Here](https://gabrielzolk.github.io/new-portfolio/)
+
+</div>
 
  <h3 align="center">📫 How to reach me: **dialixkat@gmail.com**</h3>
  
