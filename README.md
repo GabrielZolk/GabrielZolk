@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://zolkapp.vercel.app/zolkforge.png" alt="ZOLKFORGE" width="110"/>
+
 # Gabriel Queiroz
 
 **Full-stack developer** — I ship polished, design-driven products.
 
 React · Next.js · TypeScript · React Native (Expo) · Supabase · FastAPI
 
-Founder of **ZolkForge**, an app studio.
+Founder of **ZOLKFORGE**, an app studio.
 
 </div>
 
