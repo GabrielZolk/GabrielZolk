@@ -6,7 +6,7 @@
 
 React · Next.js · TypeScript · React Native (Expo) · Supabase · FastAPI
 
-Founder of **Zolk**, an app studio.
+Founder of **ZolkForge**, an app studio.
 
 </div>
 
@@ -20,8 +20,8 @@ Founder of **Zolk**, an app studio.
 I build real products end-to-end, not just prototypes — with a strong focus on UI/UX.
 
 ### 🛠️ Stack
-**Frontend:** React · Next.js · TypeScript · Tailwind · React Native (Expo)
-**Backend:** FastAPI · Node · Supabase · PostgreSQL
+**Frontend:** React · Next.js · TypeScript · Tailwind · React Native (Expo)<br>
+**Backend:** FastAPI · Node · Supabase · PostgreSQL<br>
 **Also into:** low-level / reverse engineering, AI agents & developer tooling
 
 ### 💼 Open to freelance
